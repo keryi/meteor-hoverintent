@@ -18,6 +18,7 @@ meteor add keryi:meteor-hoverintent
 ```
 
 ### demo.css
+```
 ul.demo {
   display: block;
   width: 100%;
@@ -41,6 +42,7 @@ ul.demo li {
   font-size: 0.9em;
   line-height: 1.1em;
 }
+```
 
 ### demo.js
 ```
